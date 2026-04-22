@@ -1,0 +1,5 @@
+Log Analysis Report
+-------------------
+INFO: 2
+ERROR: 2
+WARNING: 1

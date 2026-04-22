@@ -1,0 +1,12 @@
+User Onboarding Report
+----------------------
+Name: John Doe
+Username: john.doe
+Department: Engineering
+Temporary Password: XJwQVpY4
+
+Name: Jane Smith
+Username: jane.smith
+Department: Marketing
+Temporary Password: jqH2vlBm
+
